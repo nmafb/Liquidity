@@ -39,7 +39,7 @@ The data we have at our disposal:
   4. Data_segments (user_id, segment) - mapping to segmentation for each user
   
   
-  ## Analysis (ppt)
+  ## Analysis
 
 <br/>
 
