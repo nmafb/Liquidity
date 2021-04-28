@@ -1,4 +1,4 @@
-Liquidity Task
+# Liquidity Task
 
 The task is to calculate the liquidity ratio, which allows us to understand much better whether
 the ads are popular among seekers.
