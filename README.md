@@ -30,7 +30,7 @@ Based on this, i have prepared an analysis using the available data
   
   The **liquidity calculation** is (6 + 5) / (10 + 5) = 73%
   
-**Dataset**
+## Dataset
 The data we have at our disposal:
 
   1. Data_ads (date, user_id, ad_id, category_id, params) - here you can find information about ads
