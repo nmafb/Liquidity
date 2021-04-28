@@ -160,14 +160,14 @@ docker ps # run in new terminal
 
 _Run these following commands in new terminal window or tab_
 ```bash
-python3 -m venv python-venv            
-source python-venv/bin/activate 
+python -m venv python-venv 
+start activate
 ```
 
 <br/>
    
 **Install requirements**
-
+_Run this command in new prompt window, and go to requirements.txt folder_
 ```bash
 pip install -r requirements.txt  
 ```
