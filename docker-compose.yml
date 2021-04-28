@@ -15,22 +15,8 @@ services:
     volumes:
       - ./postgres-data/var/lib/postgresql/data
     restart: unless-stopped
-#    networks:
-#      - postgres-compose-network
 
-
-
-#  postgres:
-#    image: "postgres" # use latest official postgres version
-#    env_file:
-#      - database.env # configure postgres
-#    volumes:
-#      - ./database-data/var/lib/postgresql/data # persist data even if container shuts down
-#  volumes:
-#    database-data: # named volumes can be managed easier using docker-compose
-
-#####################################################3
-
+###
 
   pgadmin:
     image: dpage/pgadmin4
@@ -46,12 +32,6 @@ services:
     volumes:
       - ./postgres-data/var/lib/pgadmin4/data
     restart: unless-stopped
-#    networks:
-#      - postgres-compose-network
 
 volumes:
   postgres-data:
-
-#networks: 
-#  postgres-compose-network:
-#    driver: bridge
