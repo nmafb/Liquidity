@@ -78,16 +78,18 @@ The following folders and files are contained in the project repository:
 │       │   ...
 │   
 └───resources                          # Project resources (images, others...)    
-│     │   database-pgadmin.png
+│     │   ...
 │   
 └───notebooks                          # Jupyter notebooks
-│   │   data-analysis.ipynb
-│   │   etl.ipynb
-│   │   data_exploration.ipynb
-└───src                                # Source code - Python code
-│    |   create_tables.py
-│    |   etl.py 
-│    |   sql_queries.py
+│   │   Data_Analysis.ipynb
+│   │   Data_Exploration.ipynb
+└───src                                # Source code 
+│   └───Python                         # - Python code
+    |   |  create_tables.py
+│   |   |  etl.py 
+│   |   |  sql_queries.py
+|   └─── SQL                           # - SQL code
+|   |   |   liquidity.sql
 ```
 
 <br/>
