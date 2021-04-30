@@ -96,9 +96,9 @@ The following folders and files are contained in the project repository:
 
 The main files:
 
-* `etl.ipynb` reads and processes a single file from data and loads the data into final tables. This notebook contains detailed instructions on the ETL process for each of the tables.
+* `Data_Analysis.ipynb` notebooks which i make the data analysis. I present some graphs.
 
-* `data_exploration.ipynb` notebooks which make it possible to explore the data and present some statistical data on them. I present some graphs.
+* `Data_Exploration.ipynb` notebooks which make it possible to explore the data and present some statistical data on them. I present some graphs.
 
 * `sql_queries.py` contains all sql queries, and it's used (imported) in other files or scripts.
 
