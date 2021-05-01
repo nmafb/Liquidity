@@ -186,6 +186,7 @@ pip install -r requirements.txt
 
 ```bash
 cd src
+cd python
 python -m create_tables  # create database schema DDL
 ```
 
