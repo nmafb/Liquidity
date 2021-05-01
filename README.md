@@ -47,9 +47,17 @@ The data we have at our disposal:
 
 The task is to calculate the liquidity ratio, which allows us to understand much better whether the ads are popular among seekers.
  
+ 
+  **Calculation**
+  
+Liquiddity calculation can be found here : https://github.com/nmafb/Liquidity/blob/main/notebooks/Data_Analysis.ipynb
+ 
   **Analysis**
   
 Complete analysis can be found here : https://docs.google.com/presentation/d/188Mfq4VgL4YS5VDK4RZBTOD0o8QxekCwROT7et4gwUY/edit#slide=id.p
+  
+  
+  
   
   
   <br/>
